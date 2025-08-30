@@ -1,3 +1,5 @@
+[Dummy]
+
 # Graphcore Application Examples
 
 This repository contains a catalogue of application examples that have been optimised to run on Graphcore IPUs for both training and inference. Access reproducible code for a wide range of popular models covering NLP, Computer Vision, Speech, Multimodal, GNNs, AI for Simulation, Recommender Systems, and more. This includes a selection of models that achieve state of the art performance on IPUs, as well as code examples for self-learning.
